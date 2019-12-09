@@ -12,7 +12,7 @@ admin-api-partitioned-topics | bilahepan(Tianci Gao) | Jennifer Huang | Approved
 administration-load-balance | bilahepan(Tianci Gao) | | In Progress
 administration-proxy | bilahepan(Tianci Gao) | Jennifer Huang | Approved
 admin-load-distribution | bilahepan(Tianci Gao) | | In Progress
-administration-upgrade | july-liu | | To Do
+administration-upgrade | July-liu | | To Do
 client-libraries-cpp | liyiming2002 | | In Progress
 client-libraries-go | liyiming2002 | | In Progress
 client-libraries-java | liyiming2002 | | In Progress
